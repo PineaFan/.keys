@@ -1,0 +1,3 @@
+id_ed25519 filter=git-crypt diff=git-crypt
+known_hosts filter=git-crypt diff=git-crypt
+known_hosts.old  filter=git-crypt diff=git-crypt
